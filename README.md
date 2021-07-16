@@ -29,7 +29,7 @@ We marked with an X who is integrated so far.
 - [DerversiFi](https://www.deversifi.com/)
 - [Liquality](https://liquality.io/)
 - [Moonbeam](https://moonbeam.network/)
-- [Sifchain)(https://sifchain.finance/)
+- [Sifchain](https://sifchain.finance/)
 
 ## Native Cross-Chain Bridges
 
