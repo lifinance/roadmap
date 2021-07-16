@@ -38,3 +38,9 @@ We marked with an X who is integrated so far.
 
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
+
+
+## ToDo
+- [ ] Start adding related Twitter Accounts and Discord Channels
+- [ ] Categorize
+- [ ] Evaluate based on security, speed and costs
