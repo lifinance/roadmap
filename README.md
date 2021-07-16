@@ -4,7 +4,7 @@ This is a list of bridging protocols and solutions who aim to bridge funds acros
 
 ## Cross-Chain Liquidity Networks & Solutions
 
-We marked with an X who is integrated so far.
+We marked with an X who is integrated so far.  
 **Still is still very high level and uncategorized - PRs are welcome**
 
 - [Connext](https://connext.network/)
