@@ -40,6 +40,10 @@ We marked with an X who is integrated so far.
 - [Chainsafe](https://chainsafe.io/)
 
 
+## Useful links
+- [Bridge-List on Etherscan](https://etherscan.io/accounts/label/bridge)
+
+
 ## ToDo
 - [ ] Start adding related Twitter Accounts and Discord Channels
 - [ ] Categorize
