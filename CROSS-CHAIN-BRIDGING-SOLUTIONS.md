@@ -26,10 +26,12 @@ We marked with an X who is integrated so far.
 - [Nerve](https://nerve.network)
 - [Rubic](https://rubic.exchange/)
 - [Pokt](https://www.pokt.network/)
+- [Movr](https://www.movr.network/)
 - [DerversiFi](https://www.deversifi.com/)
 - [Liquality](https://liquality.io/)
 - [Moonbeam](https://moonbeam.network/)
 - [Sifchain](https://sifchain.finance/)
+
 
 ## Native Cross-Chain Bridges
 
