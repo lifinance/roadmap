@@ -23,7 +23,7 @@ We marked with an X who is integrated so far.
 - [EXFIL](https://exfil.finance/)
 - [Nerve](https://nerve.network)
 - [Rubic](https://rubic.exchange/)
-- [Pokt](https://www.pokt.network/)
+- [Provable' Bridging Ecosystem](https://github.com/provable-things)
 - [Movr](https://www.movr.network/)
 - [DerversiFi](https://www.deversifi.com/)
 - [Liquality](https://liquality.io/)
