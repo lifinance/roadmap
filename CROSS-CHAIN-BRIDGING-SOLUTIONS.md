@@ -29,6 +29,7 @@ We marked with an X who is integrated so far.
 - [Liquality](https://liquality.io/)
 - [Moonbeam](https://moonbeam.network/)
 - [Sifchain](https://sifchain.finance/)
+- [Celer's cBridge](https://cbridge.celer.network/)
 
 
 ## Native Cross-Chain Bridges
