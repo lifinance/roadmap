@@ -30,12 +30,15 @@ We marked with an X who is integrated so far.
 - [Moonbeam](https://moonbeam.network/)
 - [Sifchain](https://sifchain.finance/)
 - [Celer's cBridge](https://cbridge.celer.network/)
+- [Axelar](https://axelar.network/)
+- [Orbit Chain](https://orbitchain.io/)
 
-
-## Native Cross-Chain Bridges
+## Native Cross-Chain Bridges / IBC
 
 - [Horizon Harmony Bridge](https://bridge.harmony.one/)
 - [AEB - Avalanche Bridge](https://aeb.xyz/)
+- [Terra Bridge](https://bridge.terra.money/)
+- [Gravity Bridge (Cosmos)](https://gravitybridge.althea.net/)
 
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
