@@ -39,6 +39,7 @@ We marked with an X who is integrated so far.
 - [AEB - Avalanche Bridge](https://aeb.xyz/)
 - [Terra Bridge](https://bridge.terra.money/)
 - [Gravity Bridge (Cosmos)](https://gravitybridge.althea.net/)
+- [Secret Bridge](https://bridge.scrt.network/)
 
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
