@@ -32,6 +32,7 @@ We marked with an X who is integrated so far.
 - [Celer's cBridge](https://cbridge.celer.network/)
 - [Axelar](https://axelar.network/)
 - [Orbit Chain](https://orbitchain.io/)
+- [Poly](https://bridge.poly.network/)
 
 ## Native Cross-Chain Bridges / IBC
 
