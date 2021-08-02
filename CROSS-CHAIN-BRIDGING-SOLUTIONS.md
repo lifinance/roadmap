@@ -35,14 +35,17 @@ We marked with an X who is integrated so far.
 - [Sifchain](https://sifchain.finance/)
 - [Thorchain](https://thorchain.org/)
 
+## Will dive into cross-chain swaps soon
+- [UMA](https://umaproject.org/)
+
 ## Native Cross-Chain Bridges / IBC
 
-- [Horizon Harmony Bridge](https://bridge.harmony.one/)
 - [AEB - Avalanche Bridge](https://aeb.xyz/)
-- [Terra Bridge](https://bridge.terra.money/)
-- [Gravity Bridge (Cosmos)](https://gravitybridge.althea.net/)
-- [Secret Bridge](https://bridge.scrt.network/)
 - [Aurora Bridge (NEAR)](https://aurora.dev/)
+- [Gravity Bridge (Cosmos)](https://gravitybridge.althea.net/)
+- [Horizon Harmony Bridge](https://bridge.harmony.one/)
+- [Secret Bridge](https://bridge.scrt.network/)
+- [Terra Bridge](https://bridge.terra.money/)
 
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
