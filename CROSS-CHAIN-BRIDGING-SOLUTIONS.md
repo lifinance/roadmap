@@ -45,6 +45,9 @@ We marked with an X who is integrated so far.
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
 
+## Cross-Chain Projects
+- [O3 Swap](https://o3swap.com/) (Is using cross-chain multi-asset LPs)
+
 
 ## Useful links
 - [Bridge-List on Etherscan](https://etherscan.io/accounts/label/bridge)
