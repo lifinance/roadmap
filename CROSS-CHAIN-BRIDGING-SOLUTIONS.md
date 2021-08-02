@@ -33,6 +33,7 @@ We marked with an X who is integrated so far.
 - [Axelar](https://axelar.network/)
 - [Orbit Chain](https://orbitchain.io/)
 - [Poly](https://bridge.poly.network/)
+- [Meter.io](https://meter.io)
 
 ## Native Cross-Chain Bridges / IBC
 
