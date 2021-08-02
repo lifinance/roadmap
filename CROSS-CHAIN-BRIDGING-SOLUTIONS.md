@@ -42,6 +42,7 @@ We marked with an X who is integrated so far.
 - [Terra Bridge](https://bridge.terra.money/)
 - [Gravity Bridge (Cosmos)](https://gravitybridge.althea.net/)
 - [Secret Bridge](https://bridge.scrt.network/)
+- [Aurora Bridge (NEAR)](https://aurora.dev/)
 
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
