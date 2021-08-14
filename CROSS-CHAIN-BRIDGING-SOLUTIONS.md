@@ -29,6 +29,7 @@ We marked with an X who is integrated so far.
 - [Pokt](https://www.pokt.network/)
 - [Poly](https://bridge.poly.network/)
 - [Provable's Bridging Ecosystem](https://github.com/provable-things)
+- [Qredo](https://www.qredo.com/)
 - [Ren](https://renproject.io/)
 - [RouterProtocol](https://routerprotocol.com)
 - [Rubic](https://rubic.exchange/)
