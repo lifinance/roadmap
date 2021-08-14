@@ -39,6 +39,9 @@ We marked with an X who is integrated so far.
 ## Will dive into cross-chain swaps soon
 - [UMA](https://umaproject.org/)
 
+## Offers cross-chain swaps as part of their product
+- [Hybrix](https://hybrix.io/)
+
 ## Native Cross-Chain Bridges / IBC
 
 - [AEB - Avalanche Bridge](https://aeb.xyz/)
