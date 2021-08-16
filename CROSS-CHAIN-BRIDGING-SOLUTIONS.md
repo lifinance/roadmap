@@ -47,7 +47,7 @@ We marked with an X who is integrated so far.
 - [AEB - Avalanche Bridge](https://aeb.xyz/)
 - [Aurora Bridge (NEAR)](https://aurora.dev/)
 - [Gravity Bridge (Cosmos)](https://gravitybridge.althea.net/)
-- [Horizon Harmony Bridge](https://bridge.harmony.one/)
+- [Harmony Horizon Bridge](https://bridge.harmony.one/)
 - [Secret Bridge](https://bridge.scrt.network/)
 - [Terra Bridge](https://bridge.terra.money/)
 
