@@ -60,7 +60,7 @@ We marked with an X who is integrated so far.
 
 ## Useful links
 - [Bridge-List on Etherscan](https://etherscan.io/accounts/label/bridge)
-
+- [Cross-Chain Standards via: Chain Agnostic Improvement Proposals (CAIPs)](https://github.com/ChainAgnostic/CAIPs)
 
 ## ToDo
 - [ ] Start adding related Twitter Accounts and Discord Channels
