@@ -51,6 +51,7 @@ We marked with an X who is integrated so far.
 - [Harmony Horizon Bridge](https://bridge.harmony.one/)
 - [Secret Bridge](https://bridge.scrt.network/)
 - [Terra Bridge](https://bridge.terra.money/)
+- [Wormhole Solana Bridge](https://www.wormholebridge.com/)
 
 ## Solution Providers & Teams
 - [Chainsafe](https://chainsafe.io/)
