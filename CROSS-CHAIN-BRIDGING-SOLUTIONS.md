@@ -20,7 +20,6 @@ We marked with an X who is integrated so far.
 - [EXFIL](https://exfil.finance/)
 - [Hop](https://hop.exchange/)
 - [Hydradx](https://hydradx.io)
-- [Liquality](https://liquality.io/)
 - [Meter.io](https://meter.io)
 - [Moonbeam](https://moonbeam.network/) -> Bridging oriented Substrate based parachain
 - [Movr](https://www.movr.network/)
@@ -42,6 +41,7 @@ We marked with an X who is integrated so far.
 
 ## Offers cross-chain swaps as part of their product
 - [Hybrix](https://hybrix.io/)
+- [Liquality](https://liquality.io/)
 
 ## Native Cross-Chain Bridges / IBC
 
