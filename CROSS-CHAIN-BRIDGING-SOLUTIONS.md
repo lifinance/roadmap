@@ -23,6 +23,7 @@ We marked with an X who is integrated so far.
 - [Meter.io](https://meter.io)
 - [Moonbeam](https://moonbeam.network/) -> Bridging oriented Substrate based parachain
 - [Movr](https://www.movr.network/)
+- [Multichain.xyz](https://multichain.xyz/)
 - [Nerve](https://nerve.network) -> Soon to be "Synapse": https://twitter.com/SynapseProtocol
 - [Orbit Chain](https://orbitchain.io/)
 - [Pokt](https://www.pokt.network/)
