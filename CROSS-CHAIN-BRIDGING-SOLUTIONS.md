@@ -37,6 +37,7 @@ We marked with an X who is integrated so far.
 - [Rubic](https://rubic.exchange/)
 - [Sifchain](https://sifchain.finance/)
 - [Thorchain](https://thorchain.org/)
+- [Umbria](https://umbria.network/)
 
 ## Will dive into cross-chain swaps soon
 - [UMA](https://umaproject.org/)
