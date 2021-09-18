@@ -25,7 +25,7 @@ We marked with an X who is integrated so far.
 - [Moonbeam](https://moonbeam.network/) -> Bridging oriented Substrate based parachain
 - [Movr](https://www.movr.network/)
 - [Multichain.xyz](https://multichain.xyz/)
-- [Nerve](https://nerve.network) -> Soon to be "Synapse": https://twitter.com/SynapseProtocol
+- [Nerve](https://nerve.network)
 - [Orbit Chain](https://orbitchain.io/)
 - [Pokt](https://www.pokt.network/)
 - [Poly](https://bridge.poly.network/)
@@ -36,6 +36,7 @@ We marked with an X who is integrated so far.
 - [RouterProtocol](https://routerprotocol.com)
 - [Rubic](https://rubic.exchange/)
 - [Sifchain](https://sifchain.finance/)
+- [Synapse](https://synapseprotocol.com/)
 - [Thorchain](https://thorchain.org/)
 - [Umbria](https://umbria.network/)
 
