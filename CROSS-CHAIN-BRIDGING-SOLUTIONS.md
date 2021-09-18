@@ -7,6 +7,7 @@ This is a list of bridging protocols and solutions who aim to bridge funds acros
 We marked with an X who is integrated so far.  
 **Still is still very high level and uncategorized - PRs are welcome**
 
+- [Allbridge](https://allbridge.io/)
 - [Anyswap](https://anyswap.exchange/)
 - [Axelar](https://axelar.network/)
 - [Biconomy](http://biconomy.io/)
@@ -43,6 +44,8 @@ We marked with an X who is integrated so far.
 ## Offers cross-chain swaps as part of their product
 - [Hybrix](https://hybrix.io/)
 - [Liquality](https://liquality.io/)
+- [Tokemak](https://www.tokemak.xyz/)
+- [Zecrey](https://www.zecrey.com/)
 
 ## Native Cross-Chain Bridges / IBC
 
