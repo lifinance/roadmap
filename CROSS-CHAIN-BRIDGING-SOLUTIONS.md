@@ -65,7 +65,7 @@ We marked with an X who is integrated so far.
 - [Cosmos](https://cosmos.network/)
 - [O3 Swap](https://o3swap.com/) (Is using cross-chain multi-asset LPs; John Wang is co-founder of Poly.Network)
 - [Matcha](https://matcha.xyz/)
-- [Hotpot](https://hotpot.cool) (helps users (incl. smart contracts) to seamlessly swap cryptocurrencies on different blockchain networks. It's fast, decentralized, safe, low-cost and with zero slippage.)
+- [Hotpot](https://hotpot.cool) 
 
 ## Useful links
 - [Bridge-List on Etherscan](https://etherscan.io/accounts/label/bridge)
