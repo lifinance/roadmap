@@ -18,7 +18,7 @@ We marked with an X who is integrated so far.
 - [Connext](https://connext.network/)
 - [DeBridge](https://debridge.finance/)
 - [DerversiFi](https://www.deversifi.com/)
-- [EXFIL](https://exfil.finance/)
+- [EXFIL](https://exfil.finance/) (Discontinued)
 - [Hop](https://hop.exchange/)
 - [Hydradx](https://hydradx.io)
 - [Meter.io](https://meter.io)
