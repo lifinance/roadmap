@@ -37,6 +37,7 @@ We marked with an X who is integrated so far.
 - [Rubic](https://rubic.exchange/)
 - [Sifchain](https://sifchain.finance/)
 - [Synapse](https://synapseprotocol.com/)
+- [Teleportr](https://teleportr.on.fleek.co/)
 - [Thorchain](https://thorchain.org/)
 - [Umbria](https://umbria.network/)
 
