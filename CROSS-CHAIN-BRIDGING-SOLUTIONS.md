@@ -9,6 +9,7 @@ We marked with an X who is integrated so far.
 
 - [Allbridge](https://allbridge.io/)
 - [Anyswap](https://anyswap.exchange/)
+- [AtomicDEX](https://atomicdex.io/)
 - [Axelar](https://axelar.network/)
 - [Biconomy](http://biconomy.io/)
 - [Blocknet](https://blocknet.co/)
