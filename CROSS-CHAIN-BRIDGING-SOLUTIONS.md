@@ -17,6 +17,7 @@ We marked with an X who is integrated so far.
 - [Composable](https://www.composable.finance/)
 - [Connext](https://connext.network/)
 - [DeBridge](https://debridge.finance/)
+- [DeGate](https://degate.com/)
 - [DerversiFi](https://www.deversifi.com/)
 - [EXFIL](https://exfil.finance/) (Discontinued)
 - [Hop](https://hop.exchange/)
