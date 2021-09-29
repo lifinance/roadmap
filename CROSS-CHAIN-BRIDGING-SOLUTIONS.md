@@ -42,6 +42,7 @@ We marked with an X who is integrated so far.
 - [Teleportr](https://teleportr.on.fleek.co/)
 - [Thorchain](https://thorchain.org/)
 - [Umbria](https://umbria.network/)
+- [Wanchain](https://bridge.wanchain.org/)
 
 ## Will dive into cross-chain swaps soon
 - [UMA](https://umaproject.org/)
