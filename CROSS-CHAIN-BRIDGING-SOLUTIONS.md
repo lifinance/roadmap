@@ -52,6 +52,7 @@ We marked with an X who is integrated so far.
 - [Liquality](https://liquality.io/)
 - [Tokemak](https://www.tokemak.xyz/)
 - [Zecrey](https://www.zecrey.com/)
+- [zkLink](https://zk.link)
 
 ## Native Cross-Chain Bridges / IBC
 
