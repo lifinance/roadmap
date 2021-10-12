@@ -20,7 +20,6 @@ We marked with an X who is integrated so far.
 - [DeBridge](https://debridge.finance/)
 - [DeGate](https://degate.com/)
 - [DerversiFi](https://www.deversifi.com/)
-- [EXFIL](https://exfil.finance/) (Discontinued)
 - [Hop](https://hop.exchange/)
 - [Hydradx](https://hydradx.io)
 - [Meter.io](https://meter.io)
@@ -76,6 +75,12 @@ We marked with an X who is integrated so far.
 ## Useful links
 - [Bridge-List on Etherscan](https://etherscan.io/accounts/label/bridge)
 - [Cross-Chain Standards via: Chain Agnostic Improvement Proposals (CAIPs)](https://github.com/ChainAgnostic/CAIPs)
+
+## Discontiuned
+- [EXFIL](https://exfil.finance/)
+
+## Aggregation
+- [Li.Finance](https://li.finance)
 
 ## ToDo
 - [ ] Start adding related Twitter Accounts and Discord Channels
