@@ -24,7 +24,7 @@ We marked with an X who is integrated so far.
 - [Hop](https://hop.exchange/)
 - [Hydradx](https://hydradx.io)
 - [Meter.io](https://meter.io)
-- [Moonbeam](https://moonbeam.network/) -> Bridging oriented Substrate based parachain
+- [Moonbeam](https://moonbeam.network/)
 - [Movr](https://www.movr.network/)
 - [Multichain.xyz](https://multichain.xyz/)
 - [Nerve](https://nerve.network)
