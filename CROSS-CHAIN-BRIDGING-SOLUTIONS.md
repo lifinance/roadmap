@@ -80,7 +80,7 @@ We marked with an X who is integrated so far.
 - [EXFIL](https://exfil.finance/)
 
 ## Aggregation
-- [Li.Finance](https://li.finance)
+- [LI.FI](https://li.fi)
 
 ## ToDo
 - [ ] Start adding related Twitter Accounts and Discord Channels
